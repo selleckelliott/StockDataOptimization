@@ -1,0 +1,14 @@
+C:\Users\selliott\source\repos\StockDataOptimization\StockDataOptimization\bin\Debug\net8.0\StockDataOptimization.exe
+C:\Users\selliott\source\repos\StockDataOptimization\StockDataOptimization\bin\Debug\net8.0\StockDataOptimization.deps.json
+C:\Users\selliott\source\repos\StockDataOptimization\StockDataOptimization\bin\Debug\net8.0\StockDataOptimization.runtimeconfig.json
+C:\Users\selliott\source\repos\StockDataOptimization\StockDataOptimization\bin\Debug\net8.0\StockDataOptimization.dll
+C:\Users\selliott\source\repos\StockDataOptimization\StockDataOptimization\bin\Debug\net8.0\StockDataOptimization.pdb
+C:\Users\selliott\source\repos\StockDataOptimization\StockDataOptimization\obj\Debug\net8.0\StockDataOptimization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selliott\source\repos\StockDataOptimization\StockDataOptimization\obj\Debug\net8.0\StockDataOptimization.AssemblyInfoInputs.cache
+C:\Users\selliott\source\repos\StockDataOptimization\StockDataOptimization\obj\Debug\net8.0\StockDataOptimization.AssemblyInfo.cs
+C:\Users\selliott\source\repos\StockDataOptimization\StockDataOptimization\obj\Debug\net8.0\StockDataOptimization.csproj.CoreCompileInputs.cache
+C:\Users\selliott\source\repos\StockDataOptimization\StockDataOptimization\obj\Debug\net8.0\StockDataOptimization.dll
+C:\Users\selliott\source\repos\StockDataOptimization\StockDataOptimization\obj\Debug\net8.0\refint\StockDataOptimization.dll
+C:\Users\selliott\source\repos\StockDataOptimization\StockDataOptimization\obj\Debug\net8.0\StockDataOptimization.pdb
+C:\Users\selliott\source\repos\StockDataOptimization\StockDataOptimization\obj\Debug\net8.0\StockDataOptimization.genruntimeconfig.cache
+C:\Users\selliott\source\repos\StockDataOptimization\StockDataOptimization\obj\Debug\net8.0\ref\StockDataOptimization.dll
